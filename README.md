@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @poojabakode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Pooja Bakode
+- 👀 I’m interested in learning new technical skills 
+- 🌱 I’m currently learning Python for Data science
+- 💞️ I’m looking to collaborate on projects on Python
+- 📫 How to reach me - bakodepooja@gmail.com
 
 <!---
 poojabakode/poojabakode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
